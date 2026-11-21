@@ -6,9 +6,9 @@ MBA (2026) building a career in business and data analysis. I work with Power BI
 
 ## Featured projects
 
-- **Retail Sales & Inventory Performance Analysis** — 500,000+ retail transactions: sales trends, inventory risk and customer behavior. Python, Power BI.
-- **Capital Markets & Corporate Actions** — pricing validation, volatility analysis and corporate-action impact. Python, SQL, Power BI.
-- **Product Analytics & KPI Dashboard** — SaaS usage, feature adoption and churn analysis. Python, Power BI.
+- **Retail Sales & Inventory Performance Analysis**: 500,000+ retail transactions: sales trends, inventory risk and customer behavior. Power BI dashboard; Python analysis notebook to be added.
+- **Capital Markets & Corporate Actions**: pricing validation, volatility analysis and corporate-action impact. Python notebook, SQL validation, Power BI dashboard.
+- **Product Analytics & KPI Dashboard**: SaaS usage, feature adoption and churn analysis. Python notebook, Power BI dashboard.
 
 ## Connect
 
