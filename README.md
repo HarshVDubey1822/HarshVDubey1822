@@ -1,16 +1,15 @@
-## Hi there 👋
+# Harshvardhan Dubey
 
-<!--
-**HarshVDubey1822/HarshVDubey1822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business & Data Analytics | Pune, India
 
-Here are some ideas to get you started:
+MBA (2026) building a career in business and data analysis. I work with Power BI, SQL, Python (Pandas, NumPy), Excel and Tableau, and I document each project with the business problem, KPIs and recommendations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **Retail Sales & Inventory Performance Analysis** — 500,000+ retail transactions: sales trends, inventory risk and customer behavior. Python, Power BI.
+- **Capital Markets & Corporate Actions** — pricing validation, volatility analysis and corporate-action impact. Python, SQL, Power BI.
+- **Product Analytics & KPI Dashboard** — SaaS usage, feature adoption and churn analysis. Python, Power BI.
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/dubeyharshvardhan](https://www.linkedin.com/in/dubeyharshvardhan)
